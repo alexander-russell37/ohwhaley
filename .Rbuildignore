@@ -1,0 +1,6 @@
+^ohwhaley\.Rproj$
+^\.Rproj\.user$
+^ohwhaley\.Rcheck$
+^ohwhaley.*\.tar\.gz$
+^ohwhaley.*\.tgz$
+^LICENSE\.md$
